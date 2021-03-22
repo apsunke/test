@@ -1,4 +1,4 @@
-# Untitled
+# FT Test
 
 SNOWFLAKE VIRTUAL HANDS-ON LAB
 
