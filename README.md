@@ -231,15 +231,11 @@ Your business would like to pull in and transform some customer data. First you 
 
 At the top of the UI select the “Databases” tab. Then click on  “Create” and name the database “SAP” and click “Finish”.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](.gitbook/assets/12.png)
+![Graphical user interface, text, application, email Description automatically generated](.gitbook/assets/12.png)
 
 #### Now let’s create some schemas under the database SAP, to separate out our sandbox, staging, integration and presentation layers. Click on the “SAP” database name, on “Schemas”, and Create, add the name “Sandbox”, and click “Finish”.![](.gitbook/assets/13.png)
 
-![Graphical user interface, text, application
-
-Description automatically generated](.gitbook/assets/14.png)
+![Graphical user interface, text, application Description automatically generated](.gitbook/assets/14.png)
 
 Repeat the above to create three other schemas:
 
@@ -247,8 +243,7 @@ Repeat the above to create three other schemas:
 2. Integration
 3. Presentation
 
-When you’re done, you should have four schemas in total:
-
+When you’re done, you should have four schemas in total: 
 ![](.gitbook/assets/15.png)
 
 **Note**: For all databases two other schemas are automatically created, Public, which is initially empty and is the default schema, and Information\_Schema, which contains views for all the objects contained in the database, views for account-level objects \(i.e. non-database objects such as roles, warehouses, and databases\), and table functions for historical and usage data across your account.
@@ -289,9 +284,7 @@ Description automatically generated](.gitbook/assets/19.png)
 
 #### Select Qlik \(Attunity\)
 
-![Graphical user interface, text
-
-Description automatically generated](.gitbook/assets/21.png)
+![Graphical user interface, text Description automatically generated](.gitbook/assets/21.png)
 
 The following popup appears:
 
