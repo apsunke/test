@@ -351,9 +351,7 @@ The first thing we need to do is verify the target endpoint from Qlik to Snowfla
 
 The below panel appears. The Snowflake to Qlik Partner Connect has already set up a target connection to your Snowflake instance. If not, please ask for help in the Q&A.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](.gitbook/assets/30.png)
+![Graphical user interface, text, application, email Description automatically generated](.gitbook/assets/30.png)
 
 #### Click on Test Connection. You will get a test successful message that pops up.
 
