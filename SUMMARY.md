@@ -1,4 +1,4 @@
 # Table of contents
 
-* [FT Test](README.md)
+* [QLIK VHOL](README.md)
 
