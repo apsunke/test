@@ -602,13 +602,13 @@ Description automatically generated" />
 
 #### Run the following commands in the worksheet to clone the customer table from the Qlik Attunity database into a sandbox table.
 
-use role sysadmin;
+`use role sysadmin;`
 
-use database sap;
+`use database sap;`
 
-use schema sandbox;
+`use schema sandbox;`
 
-create or replace table "CUSTOMER\_SBX" clone "PC\_ATTUNITY\_DB"."sap"."0customer\_attr";
+`create or replace table "CUSTOMER_SBX" clone "PC_ATTUNITY_DB"."sap"."0customer_attr";`
 
 #### If closed, expand the database objects browser on the left of the worksheet. Click the small **Refresh** button in the left-hand panel and expand the object tree under the SAP database. Check that you can see a new table under the SAP database named CUSTOMER\_SBX. The development team now can do whatever they want with this table, including even deleting it, without having any impact on the 0customer\_attr table or any other object. 
 
